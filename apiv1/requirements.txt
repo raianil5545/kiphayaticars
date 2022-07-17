@@ -1,0 +1,12 @@
+# Django modules
+Django==4.0.5
+djangorestframework==3.13.1
+
+# Django environment variables
+python-dotenv==0.20.0
+
+# DataBase modules
+mysqlclient==2.1.0
+
+# Djoser for registration, login, logout, password reset and account activation
+djoser==2.1.0
